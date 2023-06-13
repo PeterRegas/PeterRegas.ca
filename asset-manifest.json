@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PeterRegas.ca/static/css/main.e21de5df.css",
+    "main.js": "/PeterRegas.ca/static/js/main.09916803.js",
+    "static/media/logo.png": "/PeterRegas.ca/static/media/logo.1641fec982645d9b1b29.png",
+    "index.html": "/PeterRegas.ca/index.html",
+    "main.e21de5df.css.map": "/PeterRegas.ca/static/css/main.e21de5df.css.map",
+    "main.09916803.js.map": "/PeterRegas.ca/static/js/main.09916803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e21de5df.css",
+    "static/js/main.09916803.js"
+  ]
+}

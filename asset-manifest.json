@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e21de5df.css",
-    "main.js": "/static/js/main.fb1e8f4f.js",
+    "main.css": "/static/css/main.fd6692ff.css",
+    "main.js": "/static/js/main.25aa2b29.js",
+    "static/media/ttd.png": "/static/media/ttd.c8443a55ddcbce732a93.png",
     "static/media/logo.png": "/static/media/logo.1641fec982645d9b1b29.png",
+    "static/media/PeterRegasResume.pdf": "/static/media/PeterRegasResume.33d33d73fdc64b64ccf6.pdf",
     "index.html": "/index.html",
-    "main.e21de5df.css.map": "/static/css/main.e21de5df.css.map",
-    "main.fb1e8f4f.js.map": "/static/js/main.fb1e8f4f.js.map"
+    "main.fd6692ff.css.map": "/static/css/main.fd6692ff.css.map",
+    "main.25aa2b29.js.map": "/static/js/main.25aa2b29.js.map"
   },
   "entrypoints": [
-    "static/css/main.e21de5df.css",
-    "static/js/main.fb1e8f4f.js"
+    "static/css/main.fd6692ff.css",
+    "static/js/main.25aa2b29.js"
   ]
 }

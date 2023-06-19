@@ -14,8 +14,8 @@ const Home = () => {
           I'm a Software Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-        I’m a new graduate with experiance in a wide array of development including full stack web development, mobile app development, and Unity 2d/3d game development.
-        Some of my favorite things I learned in school were ai aplications, scientific data analisis, computer vision and quantum computing.
+        I’m a new graduate with experience in a wide array of development including full stack web development, mobile app development, and Unity 2d/3d game development.
+        Some of my favorite things I learned in school were ai applications, scientific data analysis, computer vision, and quantum computing.
         I am highly motivated and a fast learner looking to bring value wherever I work.
         </p>
         <div>

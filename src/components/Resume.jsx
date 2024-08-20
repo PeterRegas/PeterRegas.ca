@@ -11,7 +11,7 @@ function Resume() {
           <p className='py-6'>// Check out my Resume</p>
         </div>
         <object data={resume} type="application/pdf" width="100%" height="100%">
-            <p> Some ad-blockers may prevent this from loading here is the alternative link https://tinyurl.com/2k8ce4nv <a href={resume}></a></p>
+            <p> Some ad-blockers may prevent this from loading here is the alternative link https://tinyurl.com/y4xc2as3 <a href={resume}></a></p>
         </object>
       </div>
       
